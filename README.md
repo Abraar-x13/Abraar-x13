@@ -1,16 +1,16 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
+```zsh
+> neofetch
+```
 
-    def __init__(self):
-        self.name = "Abraar"
-        self.role = "SWE Student"
-        self.tools = ["C/C++", "Python", "Java"]
-        self.learning = ["Julia"]
+<img align="left" src="https://i.kym-cdn.com/photos/images/original/001/708/961/9e1.png" alt="stonks" width="180" />
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find"
-                    "some of my work interesting.")
-
-me = SoftwareEngineer()
-me.say_hi()
+```csharp
+Abraar-x63@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Location: Sylhet
+Languages: C/C++, Python, Java
+Learning: Julia
+Hobbies: Playing jazz
+```
