@@ -2,8 +2,6 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.kym-cdn.com/photos/images/original/001/708/961/9e1.png" alt="stonks" width="180" />
-
 ```csharp
 Abraar-x63@github
 -------------------------
